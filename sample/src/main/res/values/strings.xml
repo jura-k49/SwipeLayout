@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SwipeLayout</string>
+    <string-array name="name">
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+        <item>1Aaaa</item>
+        <item>2Bbbb</item>
+        <item>3Cccc</item>
+        <item>4Dddd</item>
+    </string-array>
+</resources>
