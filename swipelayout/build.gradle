@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 26
@@ -31,4 +32,13 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.0'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.0'
+}
+
+publish {
+    groupId = 'com.github.jura-k49'
+    artifactId = 'SwipeLayout'
+    publishVersion = '0.1.1'
+    desc = 'Simple library swipe gestures'
+    licences = ['MIT']
+    website = 'https://github.com/jura-k49/SwipeLayout.git'
 }
